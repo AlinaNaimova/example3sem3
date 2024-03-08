@@ -8,7 +8,7 @@ import ru.geegbrain.example3sem3.services.RegistrationService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/user")//localhost:8081/user
+@RequestMapping("/user")//localhost:8082/user
 public class UserController {
 
 
